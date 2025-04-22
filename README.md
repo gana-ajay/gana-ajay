@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gana-ajay
 - 👀 I’m interested in Data analyst 
 - 🌱 I’m learn and improve my skills in Sql,Power Bi,Tableau,Microsoft Excel,Word
-- 💞️ I’m looking to collaborate on ..🤗🤗
+- 
   
 
 <!---
